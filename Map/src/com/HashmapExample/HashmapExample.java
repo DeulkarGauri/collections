@@ -66,7 +66,7 @@ public class HashmapExample {
 		System.out.println("size of map is :-  " + mymap.size());
 		System.out.println("It will give key value pair:- " + mymap);
 		System.out.println("key set:-------- " + mymap.keySet());
-		// System.out.println("Value set :----- " + mymap.values());
+		System.out.println("Value set :----- " + mymap.values());
 
 		/** using set and entryset **/
 		Set<Entry<String, Student>> myEntrySet = mymap.entrySet();

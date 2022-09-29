@@ -8,7 +8,7 @@ public class LinkedHashmap {
 
 	public static void main(String[] args) {
 		System.out.println("*** Linked Hashmap ***");
-
+		System.out.println("*****************************************************");
 		LinkedHashMap<Integer, String> MyMap = new LinkedHashMap<>();
 		System.out.println(MyMap.put(null, "ABCD"));
 		// System.out.println(MyMap.put(20, "PQRS"));
